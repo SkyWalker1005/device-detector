@@ -5,7 +5,7 @@
 
   <groupId>io.github.mngsk</groupId>
   <artifactId>device-detector</artifactId>
-  <version>1.0.10</version>
+  <version>1.0.11</version>
   <packaging>jar</packaging>
 
   <name>Device Detector</name>
@@ -22,15 +22,15 @@
 
   <developers>
     <developer>
-      <name>Arturo González</name>
-      <url>https://mngsk.github.io</url>
+      <name>Lalit Sharma</name>
+      <url>https://github.com/SkyWalker1005</url>
     </developer>
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/mngsk/device-detector.git</connection>
-    <developerConnection>scm:git:ssh://github.com:mngsk/device-detector.git</developerConnection>
-    <url>https://github.com/mngsk/device-detector/tree/master</url>
+    <connection>scm:git:git://github.com/SkyWalker1005/device-detector.git</connection>
+    <developerConnection>scm:git:ssh://github.com:SkyWalker1005/device-detector.git</developerConnection>
+    <url>https://github.com/SkyWalker1005/device-detector/tree/master</url>
     <tag>HEAD</tag>
   </scm>
 
